@@ -1,0 +1,36 @@
+typography_spectrum: 0.855359287186996
+color:
+  brandStrength: 0.4472872500617684
+  lightness: 0.29227529313276973
+  saturation: 0.3455792150663968
+  rhythmicContrast: 0.8824332268080572
+  brandColors:
+    - '#222222'
+    - '#DCDCDC'
+    - '#5B5B5B'
+    - '#C1C1C1'
+    - '#939393'
+github: true
+layout_spectrum: 0.003142233230265798
+author:
+  name: Patrick Housen
+  email: info@patrickhousen.com
+  url: 'http://patrickhousen.com'
+name: 'EPAS blog Patrick Housen '
+navigation:
+  - name: Module 1 - On Listening
+    id: 26fc17de-0035-46db-a1f5-5384d1d21874
+    type: content
+  - name: Personal Projects
+    id: 5f7892da-588d-4b3d-ad39-fa2cda4d9c55
+    type: content
+title: Just listen & Hear me out
+content: []
+description: EPAS Personal Blog
+purpose:
+  - type: external
+    url: 'https://thegrid.ai/composing-grounds/'
+    label: Portfolio
+  - type: external
+    url: 'http://patrickhousen.com'
+    label: my website
