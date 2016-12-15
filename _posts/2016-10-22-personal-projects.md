@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-11-11T14:26:04.068Z'
+datePublished: '2016-12-15T13:32:36.923Z'
 inFeed: true
-hasPage: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-11-11T14:26:03.541Z'
+dateModified: '2016-12-15T13:32:35.930Z'
 title: Personal Projects
 publisher:
   name: Patrick Housen
 description: 'My personal workspace @NFA during Module2 '
 sourcePath: _posts/2016-10-22-personal-projects.md
 starred: false
-url: personal-projects/index.html
-_type: Article
+datePublishedOriginal: '2016-11-11T14:26:04.068Z'
+_type: Blurb
 
 ---
 # Personal Projects
