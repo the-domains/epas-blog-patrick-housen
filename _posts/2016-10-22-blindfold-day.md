@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-11-11T14:26:25.322Z'
+datePublished: '2016-12-22T21:23:23.000Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-11T14:26:24.696Z'
+dateModified: '2016-12-22T21:23:22.173Z'
 title: Blindfold Day
 publisher: {}
 description: coming soon
 sourcePath: _posts/2016-10-22-blindfold-day.md
 starred: false
+datePublishedOriginal: '2016-11-11T14:26:25.322Z'
 url: blindfold-day/index.html
 _type: Article
 
