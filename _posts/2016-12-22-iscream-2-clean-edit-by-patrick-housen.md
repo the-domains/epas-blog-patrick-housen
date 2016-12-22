@@ -62,8 +62,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/patrick-housen/iscream-2-clean-edit'
 title: 'IScream [2] Clean Edit by Patrick Housen'
-datePublished: '2016-12-22T21:23:22.977Z'
-dateModified: '2016-12-22T21:23:22.173Z'
+datePublished: '2016-12-22T22:48:39.655Z'
+dateModified: '2016-12-22T22:48:38.968Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-iscream-2-clean-edit-by-patrick-housen.md
