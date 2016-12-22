@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-22T21:23:23.000Z'
+datePublished: '2016-12-22T21:23:41.434Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-22T21:23:22.173Z'
+dateModified: '2016-12-22T21:23:40.867Z'
 title: Blindfold Day
 publisher: {}
 description: coming soon
