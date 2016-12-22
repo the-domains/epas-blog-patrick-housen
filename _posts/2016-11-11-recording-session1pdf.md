@@ -11,8 +11,8 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://drive.google.com/open?id=0Bxp_4594VjUwS19JMmtOX3Z6SVk'
 title: 'Recording Session[1].pdf'
-datePublished: '2016-12-22T22:48:39.669Z'
-dateModified: '2016-12-22T22:48:38.968Z'
+datePublished: '2016-12-22T22:53:21.161Z'
+dateModified: '2016-12-22T22:53:20.540Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-11-11-recording-session1pdf.md
