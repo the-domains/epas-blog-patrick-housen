@@ -11,12 +11,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://drive.google.com/open?id=0Bxp_4594VjUwS19JMmtOX3Z6SVk'
 title: 'Recording Session[1].pdf'
-datePublished: '2016-11-11T14:46:04.948Z'
-dateModified: '2016-11-11T14:43:00.870Z'
+datePublished: '2016-12-22T21:23:23.009Z'
+dateModified: '2016-12-22T21:23:22.173Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-11-recording-session1pdf.md
+starred: false
+datePublishedOriginal: '2016-11-11T14:46:04.948Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
