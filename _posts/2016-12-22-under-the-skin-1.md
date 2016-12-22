@@ -45,8 +45,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/196696643'
 title: 'Under the Skin [1]'
-datePublished: '2016-12-22T21:23:41.436Z'
-dateModified: '2016-12-22T21:23:40.867Z'
+datePublished: '2016-12-22T22:48:39.668Z'
+dateModified: '2016-12-22T22:48:38.968Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-under-the-skin-1.md
