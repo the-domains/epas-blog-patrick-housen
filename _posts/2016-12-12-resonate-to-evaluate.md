@@ -1,18 +1,18 @@
 ---
 inFeed: true
 author: []
-dateModified: '2016-12-22T21:52:16.185Z'
+dateModified: '2016-12-22T22:48:38.968Z'
 via: {}
 title: Resonate to evaluate
 publisher: {}
 description: >-
   20th of December 2016Finally having the feeling that I can take a step back
   from my work to play the role of the observer.
-datePublished: '2016-12-22T22:13:13.588Z'
+datePublished: '2016-12-22T22:48:39.666Z'
 sourcePath: _posts/2016-12-12-resonate-to-evaluate.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-12T09:30:07.144Z'
-hasPage: true
 url: resonate-to-evaluate/index.html
 _type: Article
 
