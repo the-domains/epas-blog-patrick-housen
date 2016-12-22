@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-22T21:23:23.003Z'
+datePublished: '2016-12-22T21:23:41.437Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-22T21:23:22.173Z'
+dateModified: '2016-12-22T21:23:40.867Z'
 title: Module 1 - On Listening
 publisher:
   url: 'https://www.instagram.com/p/BJ1JgYZhVAB/'
