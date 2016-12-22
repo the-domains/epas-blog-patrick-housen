@@ -1,18 +1,20 @@
 ---
 inFeed: true
 author: []
-dateModified: '2016-12-22T21:50:52.259Z'
+dateModified: '2016-12-22T21:52:16.185Z'
 via: {}
 title: Resonate to evaluate
 publisher: {}
 description: >-
-  20th of December 2016  Finally having the feeling that I can take a step back
+  20th of December 2016Finally having the feeling that I can take a step back
   from my work to play the role of the observer.
-datePublished: '2016-12-22T21:50:52.775Z'
+datePublished: '2016-12-22T22:13:13.588Z'
 sourcePath: _posts/2016-12-12-resonate-to-evaluate.md
 starred: false
 datePublishedOriginal: '2016-12-12T09:30:07.144Z'
-_type: Blurb
+hasPage: true
+url: resonate-to-evaluate/index.html
+_type: Article
 
 ---
 # Resonate to evaluate
@@ -25,3 +27,4 @@ Find that I'm pretty good at giving advice to other people about their work and 
 On that 'note' --\> time to take the time to get my reflections from inside to a written form!
 
 Therefore this part of the blog: which will be dedicated to my personal reflections: past and future.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15b4306e-4423-4004-98e6-ed0d512991aa.jpg)
