@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-22T22:48:39.668Z'
+datePublished: '2016-12-22T22:53:21.175Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-22T22:48:38.968Z'
+dateModified: '2016-12-22T22:53:20.540Z'
 title: Module 1 - On Listening
 publisher:
   name: Patrick Housen
