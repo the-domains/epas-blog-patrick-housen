@@ -23,15 +23,15 @@ collections:
 description: EPAS Personal Blog
 color:
   saturation: 0.3455792150663968
-  brandStrength: 0.4472872500617684
-  rhythmicContrast: 0.8824332268080572
+  brandStrength: 0.4086021
+  lightness: 0.2922752931327697
   brandColors:
     - '#222222'
+    - '#494949'
+    - '#5D5D5D'
     - '#DCDCDC'
-    - '#5B5B5B'
-    - '#C1C1C1'
-    - '#939393'
-  lightness: 0.2922752931327697
+    - '#ADADAD'
+  rhythmicContrast: 0.8824332268080572
 navigation:
   - name: Module 1 - On Listening
     id: 26fc17de-0035-46db-a1f5-5384d1d21874
