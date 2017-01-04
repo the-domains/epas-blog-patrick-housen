@@ -16,7 +16,7 @@ author:
   name: Patrick Housen
   email: info@patrickhousen.com
   url: 'http://patrickhousen.com'
-name: 'EPAS blog Patrick Housen '
+name: Patrick's EPAS Blog
 url: 'http://epas.patrickhousen.site'
 navigation:
   - name: Module 1 - On Listening
@@ -37,7 +37,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Just listen & Hear me out
+title: Patrick's EPAS Blog
 content: []
 description: EPAS Personal Blog
 purpose:
