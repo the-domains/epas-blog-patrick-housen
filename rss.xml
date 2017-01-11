@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Just listen & Hear me out]]></title>
-        <description><![CDATA[Just listen & Hear me out]]></description>
+        <title><![CDATA[Patrick's EPAS Blog]]></title>
+        <description><![CDATA[Patrick's EPAS Blog]]></description>
         <link>http://epas.patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Dec 2016 02:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2017 12:26:34 GMT</lastBuildDate>
         <atom:link href="http://epas.patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Dec 2016 02:43:48 GMT</pubDate>
+        <pubDate>Wed, 11 Jan 2017 12:26:33 GMT</pubDate>
         <item>
             <title><![CDATA[Resonate to evaluate]]></title>
             <description><![CDATA[<article><h1>Resonate to evaluate</h1><p>20th of December 2016Finally having the feeling that I can take a step back from my work to play the role of the observer.</p></article>]]></description>
@@ -57,18 +57,18 @@
             <pubDate>Thu, 22 Dec 2016 22:53:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Session[2] ]]></title>
+            <description><![CDATA[<article><h1>Session[2] </h1><p>@Cirque, Bijloke, Ghent (Be)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2666e25-f3cf-4fff-92d1-0cdef7fbb68e.jpg"></article>]]></description>
+            <link>http://epas.patrickhousen.site/session2/index.html</link>
+            <guid isPermaLink="false">80d70350-8c08-499d-81a5-070b46087480</guid>
+            <pubDate>Tue, 27 Dec 2016 02:48:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Recordings for Session[2] & Project Mod 4]]></title>
             <description><![CDATA[<article><h1>Recordings for Session[2] & Project Mod 4</h1><p>5th and 6th of November 2016 @ Nederpolder, Ghent</p></article>]]></description>
             <link>http://epas.patrickhousen.site/recordings-for-session2-and-project-mod-4/index.html</link>
             <guid isPermaLink="false">49c78546-9e3f-4dbb-9307-7e6b701f132d</guid>
             <pubDate>Tue, 27 Dec 2016 02:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recording Session[1].pdf]]></title>
-            <description><![CDATA[<article><h1>Recording Session[1].pdf</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1c2e87f94cb6c096195fff72fd3bb395/noop?input=https%3A%2F%2Flh4.googleusercontent.com%2FjAunRrn1-_uqwwluib0sh_kzlOdsvmx5cEGPnEcIy6SrVb-sl1KDAg%3Dw1200-h630-p"></article>]]></description>
-            <link>https://drive.google.com/open?id=0Bxp_4594VjUwS19JMmtOX3Z6SVk</link>
-            <guid isPermaLink="false">379fa1d9-0d76-429d-aeb3-ce06a35cc65c</guid>
-            <pubDate>Thu, 22 Dec 2016 22:53:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
