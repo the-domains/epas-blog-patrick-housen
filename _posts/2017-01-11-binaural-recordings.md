@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: A collection of my binaural recording during the EPAS postgraduate
-dateModified: '2017-01-11T17:15:51.914Z'
-datePublished: '2017-01-11T17:15:52.459Z'
+description: October 2016
+dateModified: '2017-01-11T17:21:14.279Z'
+datePublished: '2017-01-11T17:21:14.840Z'
 title: Binaural Recordings
 author: []
 publisher: {}
@@ -15,6 +15,8 @@ url: binaural-recordings/index.html
 _type: Article
 
 ---
+_October 2016_
+
 # Binaural Recordings
 
 A collection of my binaural recording during the EPAS postgraduate
