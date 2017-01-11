@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: November 2016
-dateModified: '2017-01-11T17:39:07.779Z'
-datePublished: '2017-01-11T17:39:08.261Z'
+dateModified: '2017-01-11T17:39:23.217Z'
+datePublished: '2017-01-11T17:39:25.282Z'
 title: recording part 1
 author: []
 publisher: {}
