@@ -4,9 +4,9 @@
         <description><![CDATA[Patrick's EPAS Blog]]></description>
         <link>http://epas.patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Jan 2017 17:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2017 17:21:22 GMT</lastBuildDate>
         <atom:link href="http://epas.patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Jan 2017 17:20:15 GMT</pubDate>
+        <pubDate>Wed, 11 Jan 2017 17:21:15 GMT</pubDate>
         <item>
             <title><![CDATA[recording part 1]]></title>
             <description><![CDATA[<article><h1>recording part 1</h1><p>November 2016</p></article>]]></description>
@@ -23,10 +23,10 @@
         </item>
         <item>
             <title><![CDATA[Binaural Recordings]]></title>
-            <description><![CDATA[<article><h1>Binaural Recordings</h1><p>A collection of my binaural recording during the EPAS postgraduate</p></article>]]></description>
+            <description><![CDATA[<article><h1>Binaural Recordings</h1><p>October 2016</p></article>]]></description>
             <link>http://epas.patrickhousen.site/binaural-recordings/index.html</link>
             <guid isPermaLink="false">aa0c6b14-07fd-4056-aaed-43a5683c494a</guid>
-            <pubDate>Wed, 11 Jan 2017 17:15:52 GMT</pubDate>
+            <pubDate>Wed, 11 Jan 2017 17:21:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
