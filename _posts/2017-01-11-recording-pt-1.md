@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: November 2016
-dateModified: '2017-01-11T17:14:01.191Z'
-datePublished: '2017-01-11T17:14:01.863Z'
+dateModified: '2017-01-11T17:14:05.214Z'
+datePublished: '2017-01-11T17:14:05.673Z'
 title: Recording pt. 1
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: _posts/2017-01-11-recording-pt-1.md
 starred: false
 datePublishedOriginal: '2017-01-11T17:08:48.710Z'
-_type: Blurb
+url: recording-pt-1/index.html
+_type: Article
 
 ---
 November 2016
