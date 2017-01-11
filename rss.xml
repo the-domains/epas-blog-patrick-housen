@@ -4,14 +4,22 @@
         <description><![CDATA[Patrick's EPAS Blog]]></description>
         <link>http://epas.patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Jan 2017 12:36:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2017 12:41:04 GMT</lastBuildDate>
         <atom:link href="http://epas.patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 11 Jan 2017 12:40:57 GMT</pubDate>
         <item>
             <title><![CDATA[Resonate to evaluate]]></title>
             <description><![CDATA[<article><h1>Resonate to evaluate</h1><p>20th of December 2016Finally having the feeling that I can take a step back from my work to play the role of the observer.</p></article>]]></description>
             <link>http://epas.patrickhousen.site/resonate-to-evaluate/index.html</link>
             <guid isPermaLink="false">44803c04-c389-44f5-8e61-0eeb7395e4f1</guid>
             <pubDate>Wed, 11 Jan 2017 12:36:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Binaural Recordings]]></title>
+            <description><![CDATA[<article><h1>Binaural Recordings</h1><p>A collection of my binaural recording during the EPAS postgraduate</p></article>]]></description>
+            <link>http://epas.patrickhousen.site/binaural-recordings/index.html</link>
+            <guid isPermaLink="false">aa0c6b14-07fd-4056-aaed-43a5683c494a</guid>
+            <pubDate>Wed, 11 Jan 2017 12:40:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
