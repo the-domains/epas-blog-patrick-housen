@@ -4,22 +4,15 @@
         <description><![CDATA[Patrick's EPAS Blog]]></description>
         <link>http://epas.patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Jan 2017 17:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2017 17:17:56 GMT</lastBuildDate>
         <atom:link href="http://epas.patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Jan 2017 17:14:05 GMT</pubDate>
-        <item>
-            <title><![CDATA[Recording pt. 1]]></title>
-            <description><![CDATA[<article><h1>Recording pt. 1</h1><h2>Recordings for Session [x] & ReLiV [x]</h2><p>November 2016</p></article>]]></description>
-            <link>http://epas.patrickhousen.site/recording-pt-1/index.html</link>
-            <guid isPermaLink="false">38e2cd38-af82-492a-ab22-7acd30120cd9</guid>
-            <pubDate>Wed, 11 Jan 2017 17:14:05 GMT</pubDate>
-        </item>
+        <pubDate>Wed, 11 Jan 2017 17:17:55 GMT</pubDate>
         <item>
             <title><![CDATA[Binaural Recordings]]></title>
             <description><![CDATA[<article><h1>Binaural Recordings</h1><p>A collection of my binaural recording during the EPAS postgraduate</p></article>]]></description>
             <link>http://epas.patrickhousen.site/binaural-recordings/index.html</link>
             <guid isPermaLink="false">aa0c6b14-07fd-4056-aaed-43a5683c494a</guid>
-            <pubDate>Wed, 11 Jan 2017 12:40:57 GMT</pubDate>
+            <pubDate>Wed, 11 Jan 2017 17:15:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
