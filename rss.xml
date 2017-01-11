@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Patrick's EPAS Blog]]></title>
+        <description><![CDATA[Patrick's EPAS Blog]]></description>
+        <link>http://epas.patrickhousen.site/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Jan 2017 12:36:33 GMT</lastBuildDate>
+        <atom:link href="http://epas.patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Resonate to evaluate]]></title>
+            <description><![CDATA[<article><h1>Resonate to evaluate</h1><p>20th of December 2016Finally having the feeling that I can take a step back from my work to play the role of the observer.</p></article>]]></description>
+            <link>http://epas.patrickhousen.site/resonate-to-evaluate/index.html</link>
+            <guid isPermaLink="false">44803c04-c389-44f5-8e61-0eeb7395e4f1</guid>
+            <pubDate>Wed, 11 Jan 2017 12:36:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
