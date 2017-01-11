@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A collection of my binaural recording during the EPAS postgraduate
-dateModified: '2017-01-11T12:39:26.107Z'
-datePublished: '2017-01-11T12:40:57.351Z'
+dateModified: '2017-01-11T17:15:51.914Z'
+datePublished: '2017-01-11T17:15:52.459Z'
 title: Binaural Recordings
 author: []
 publisher: {}
@@ -37,7 +37,7 @@ This was my first hands on experience with binaural recordings and it literally 
 
 Hence the following three unedited examples the 21 recordings I made the 2nd of September.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkN1uwjAMhV-ligSXpDBQx09Ae5IqNIZEcuvIdqj29uvKTSft9jufzrF8SQ_2PVRjChqd2db1ylQR0jOqM_tDbSrpmBDT8HRmIFPN-p04AL-BcOdMVM1ysnbcCJUhdEglbDrqbUb_DWxvhdHN0urjy1qf038iJlGxu8_j9tg0zX7t-3z2Ran9Dd3Do8DMYgrQMqBXCAsskcZ26uphUHHKZYGLTPf-RQyZpr1FwStJ8Thr5nqx79dcfwAC4WkK" height="600" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkN1uwjAMhV-ligSXpDBQx09Ae5IqNIZEcuvIdqj29uvKTSft9jufzrF8SQ_2PVRjChqd2db1ylQR0jOqM_tDbSrpmBDT8HRmIFPN-p04AL-BcOdMVM1ysnbcCJUhdEglbDrqbUb_DWxvhdHN0urjy1qf038iJlGxu8_j9tg0zX7t-3z2Ran9Dd3Do8DMYgrQMqBXCAsskcZ26uphUHHKZYGLTPf-RQyZpr1FwStJ8Thr5nqx79dcfwAC4WkK" height="400" style=""></iframe>
 
 ### **Binaural Field Recording Exercise 1**
 
@@ -65,7 +65,7 @@ equipment used: Roland-R26 + DPA4041 microphones.
 
 These are two unedited examples of exercises given to us to hone our recording capabilities & realising the importance of your own body and movement when recording.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkNFuwjAMRX-lisQeSQZj2hgB8SVVaAyJ5NaR7azi7-nKS5H2eu7RvZYP-cqhh2bMUZM3786tTJMg35J687FzppGOCTEPN28GMs2sX4gj8BMId94k1SJ7a8e1UB1ih1TjuqPeFgx3YHuqjH6WVtuztaHk_0TMomI33277-eU2u7fQl59Qldq_0F8DCsws5QgtAwaFuMCSaGynrh4GFa9cF7jKdO8rYig07S0KfrPUgLNmjgf7fM3xAfh5aPc" height="400" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkNFuwjAMRX-lisQeSQZj2hgB8SVVaAyJ5NaR7azi7-nKS5H2eu7RvZYP-cqhh2bMUZM3786tTJMg35J687FzppGOCTEPN28GMs2sX4gj8BMId94k1SJ7a8e1UB1ih1TjuqPeFgx3YHuqjH6WVtuztaHk_0TMomI33277-eU2u7fQl59Qldq_0F8DCsws5QgtAwaFuMCSaGynrh4GFa9cF7jKdO8rYig07S0KfrPUgLNmjgf7fM3xAfh5aPc" height="300" style=""></iframe>
 
 ## **Blindfold Day**
 
