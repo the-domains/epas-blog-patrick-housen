@@ -58,8 +58,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/patrick-housen/reliv-1-stereo-mixdown'
 title: 'ReliV [1] Stereo Mixdown by Patrick Housen'
-datePublished: '2017-01-12T10:38:16.781Z'
-dateModified: '2017-01-11T12:26:45.911Z'
+datePublished: '2017-01-12T10:39:52.565Z'
+dateModified: '2017-01-12T10:39:51.784Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-reliv-1-stereo-mixdown-by-patrick-housen.md
