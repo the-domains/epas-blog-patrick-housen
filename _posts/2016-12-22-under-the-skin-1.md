@@ -39,8 +39,8 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: 'Under the Skin [x]'
-datePublished: '2017-01-12T10:21:22.256Z'
-dateModified: '2017-01-12T10:21:12.571Z'
+datePublished: '2017-01-12T10:22:15.920Z'
+dateModified: '2017-01-12T10:22:14.808Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-under-the-skin-1.md
