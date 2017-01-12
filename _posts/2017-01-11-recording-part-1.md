@@ -1,13 +1,13 @@
 ---
 description: November 2016
-datePublished: '2017-01-12T10:39:52.565Z'
+datePublished: '2017-01-12T10:46:40.058Z'
 author: []
 via: {}
 sourcePath: _posts/2017-01-11-recording-part-1.md
 hasPage: true
 title: recording part 1
 publisher: {}
-dateModified: '2017-01-12T10:39:51.784Z'
+dateModified: '2017-01-12T10:46:39.059Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-11T21:56:51.350Z'
