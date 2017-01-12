@@ -4,15 +4,22 @@
         <description><![CDATA[Patrick's EPAS Blog]]></description>
         <link>http://epas.patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Jan 2017 22:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2017 08:30:05 GMT</lastBuildDate>
         <atom:link href="http://epas.patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Jan 2017 22:22:26 GMT</pubDate>
+        <pubDate>Thu, 12 Jan 2017 08:30:04 GMT</pubDate>
         <item>
             <title><![CDATA[recording part 1]]></title>
-            <description><![CDATA[<article><h1>recording part 1</h1><p>November 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e120f32-e72d-4187-922f-c936f69dad89.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>recording part 1</h1><p>November 2016</p></article>]]></description>
             <link>http://epas.patrickhousen.site/recording-part-1/index.html</link>
             <guid isPermaLink="false">c2621f39-dd0e-41b2-a122-934a17fd5724</guid>
-            <pubDate>Wed, 11 Jan 2017 21:56:51 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2017 08:04:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Binaural Recordings]]></title>
+            <description><![CDATA[<article><h1>Binaural Recordings</h1><p>October 2016</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/607afac42eabdff81692ed1321c9d0d8/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0043d79e-014c-4400-9201-293fc13f74e2.jpg&x=0&y=0"></article>]]></description>
+            <link>http://epas.patrickhousen.site/binaural-recordings/index.html</link>
+            <guid isPermaLink="false">aa0c6b14-07fd-4056-aaed-43a5683c494a</guid>
+            <pubDate>Thu, 12 Jan 2017 08:00:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
