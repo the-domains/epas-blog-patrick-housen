@@ -39,8 +39,8 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: 'More info on Under the Skin [x]'
-datePublished: '2017-01-12T10:37:20.122Z'
-dateModified: '2017-01-12T10:37:19.637Z'
+datePublished: '2017-01-12T10:37:39.064Z'
+dateModified: '2017-01-12T10:37:38.357Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-under-the-skin-1.md
@@ -58,7 +58,7 @@ _context: 'http://schema.org'
 
 # **Under the Skin \[x\]**
 
-## **Module 4 - Sound in new media**
+## **Part of Module 4 - Sound in new media**
 
 Mentor: Dr. Martin Parker ([tinpark.com][0])
 
