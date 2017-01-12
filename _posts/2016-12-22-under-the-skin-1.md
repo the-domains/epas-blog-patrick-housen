@@ -10,7 +10,7 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords: []
-description: ''
+description: 'Mentor: Dr. Martin Parker (tinpark.com)'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/196696643'
     type: ios
@@ -38,9 +38,9 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-title: 'Under the Skin [x]'
-datePublished: '2017-01-12T10:36:54.124Z'
-dateModified: '2017-01-12T10:36:53.692Z'
+title: 'More info on Under the Skin [x]'
+datePublished: '2017-01-12T10:37:20.122Z'
+dateModified: '2017-01-12T10:37:19.637Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-under-the-skin-1.md
@@ -52,9 +52,7 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-## More info on 
-
-# Under the Skin \[x\]
+# More info on Under the Skin \[x\]
 
 ---
 
