@@ -42,8 +42,8 @@ content: []
 description: My sonorous journey throughout the European Postgraduate in Arts in Sound
 purpose:
   - type: external
-    url: 'https://thegrid.ai/composing-grounds/'
-    label: Portfolio
+    url: 'http://patrickhousen.com'
+    label: 'http://patrickhousen.com'
   - type: email
     url: 'mailto:info@patrickhousen.com'
     label: Contact me
