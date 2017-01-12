@@ -39,10 +39,10 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: 'More info on Under the Skin [x]'
-datePublished: '2017-01-12T10:46:39.959Z'
-dateModified: '2017-01-12T10:46:39.059Z'
+datePublished: '2017-01-12T10:51:42.825Z'
+dateModified: '2017-01-12T10:51:42.290Z'
 via: {}
-inFeed: true
+inFeed: false
 sourcePath: _posts/2016-12-22-under-the-skin-1.md
 hasPage: true
 starred: false
@@ -54,19 +54,21 @@ _context: 'http://schema.org'
 ---
 # More info on Under the Skin \[x\]
 
----
-
-# **Under the Skin \[x\]**
-
 ## **Part of Module 4 - Sound in new media**
 
 Mentor: Dr. Martin Parker ([tinpark.com][0])
 
-### **General info**
-
 * Depicts my personal work that was part of Module 4 - On audiovisual composition.
 * Collaboration with artist Léonie Zelger to create a live performed soundtrack to an existing film.
 * original name of the film: In the Waves - 2015 by Jing-Fang Shen. Original soundtrack by Antonio J. Garcia
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F196696643&amp;url=https%3A%2F%2Fvimeo.com%2F196696643&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F609249153_640.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+---
+
+# **Under the Skin \[x\]**
+
+### **General info**
 
 ### **Concept**
 
@@ -100,9 +102,5 @@ The few moments spent with Martin diving into the programming were priceless: I 
 ### **Result**
 
 Enjoy the Stereo mixed-down of **Under the Skin \[1\]!**
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F196696643&amp;url=https%3A%2F%2Fvimeo.com%2F196696643&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F609249153_640.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-
 
 [0]: http://tinpark.com/
