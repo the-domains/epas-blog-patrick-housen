@@ -38,16 +38,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/196696643'
 title: 'Under the Skin [x]'
-datePublished: '2017-01-12T10:23:24.863Z'
-dateModified: '2017-01-12T10:23:24.259Z'
+datePublished: '2017-01-12T10:23:59.505Z'
+dateModified: '2017-01-12T10:23:58.926Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-under-the-skin-1.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:21:22.256Z'
+url: under-the-skin-x/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
