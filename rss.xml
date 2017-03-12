@@ -4,9 +4,16 @@
         <description><![CDATA[Patrick's EPAS Blog]]></description>
         <link>http://epas.patrickhousen.site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Mar 2017 21:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2017 21:24:45 GMT</lastBuildDate>
         <atom:link href="http://epas.patrickhousen.site/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Mar 2017 21:24:06 GMT</pubDate>
+        <pubDate>Sun, 12 Mar 2017 21:24:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[The New What Now]]></title>
+            <description><![CDATA[<p>February 2017</p>,<p>Finishing my latest creation “In Betwixt” that will be performed by “De Compagnie” in Ghent and Antwerp in April: Check out the article below for more info and to order tickets for the concert.</p>,<article><h1>The New What Now</h1><p>In &quot; Mirrors&quot; slaan 8 jonge getaltenteerde componisten, 5 getalenteerde muzikanten en 8 jonge videokunstenaars de handen in elkaar voor het cre&euml;ren van een unieke muzikale en beeldende totaalervaring voor u, het publiek van The New What Now.</p></article>]]></description>
+            <link>http://www.thenewwhatnow.com/concerten/wonderlands.html</link>
+            <guid isPermaLink="false">22735d94-ecda-4201-b2b9-bd1b436f8859</guid>
+            <pubDate>Sun, 12 Mar 2017 21:24:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Teaser for Session [x] online! ]]></title>
             <description><![CDATA[<h1>Teaser for Session [x] online! </h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F203146825&url=https%3A%2F%2Fvimeo.com%2F203146825&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F617351038_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p><strong>Session [x} </strong><br>is an experience-orientated performance that tries to discover and research the affect of the human breath through both performance art and sound. It is also a very physical performance that invites the public to embrace the moment where time seems to freeze, slow-down and speed-up.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://soundcloud.com/patrick-housen/reviz-2-stereo-mixdown</link>
             <guid isPermaLink="false">fe416cf6-6722-425c-85f2-3622f4045e65</guid>
             <pubDate>Thu, 12 Jan 2017 10:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IScream [2] Clean Edit by Patrick Housen]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F299197139%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fpatrick-housen%2Fiscream-2-clean-edit&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000199732595-4ovtzv-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://soundcloud.com/patrick-housen/iscream-2-clean-edit</link>
-            <guid isPermaLink="false">77d89092-bdf6-491f-9bed-ac04a6c2a3f0</guid>
-            <pubDate>Thu, 12 Jan 2017 10:38:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
