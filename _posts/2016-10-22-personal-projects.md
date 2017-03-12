@@ -1,14 +1,14 @@
 ---
 description: 'My personal workspace @NFA during Module2 '
-datePublished: '2017-03-12T22:24:41.258Z'
+datePublished: '2017-03-12T22:41:45.723Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
 hasPage: true
-title: Overview of  Projects
+title: Overview of Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T22:24:40.647Z'
+dateModified: '2017-03-12T22:41:45.257Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
@@ -19,15 +19,15 @@ _type: Article
 # Overview of Projects
 ![My personal workspace @NFA during Module2 ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/663f1065-15f2-4b41-8cfb-048a60f54162.jpg)
 
-## Personal Projects
+## Personal Projects Semester 1
 
-## Final artistic Project 
+## Final artistic Projects 
 
-## Other Projects
+## Other Relevant Projects
 
 ---
 
-Click on the names to go to the projects page.
+# Overview of Projects
 
 ## Personal Projects
 
@@ -38,11 +38,13 @@ Click on the names to go to the projects page.
 * Mod 4 - **Under the Skin \[x\]** - w/ Martin Parker
 * Mod 4 - ReLiV \[1\] - w/ André Bendocchi-Alves
 * Mod 5 - Installation - w/ Hans-Peter Kuhn
-* * Blindfold Day
-* ## Final Artistic Project   
-**Session \[x\]**
+* * **Blindfold Day**
+* ## Final Artistic Projects
 
-## Other artistic projects
+1. **Performance art - **_**Session \[x\]**_****
+2. **Sounddesign and mixing of an animation film - **_**Julienne**_
+
+## Other Relevant Projects
 
 * My new found view on composing:"Composing from soundscapes and Temp tracks "
 * Musica futurista workshops
