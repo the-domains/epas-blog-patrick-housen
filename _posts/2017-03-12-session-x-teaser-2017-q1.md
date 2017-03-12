@@ -11,8 +11,8 @@ publisher:
   domain: vimeo.com
 keywords: []
 description: >-
-  Session [x}  is an experience-orientated performance that tries to discover
-  and research the affect of the human breath through both performance art and
+  Session [x} is an experience-orientated performance that tries to discover and
+  research the affect of the human breath through both performance art and
   sound. It is also a very physical performance that invites the public to
   embrace the moment where time seems to freeze, slow-down and speed-up.
 app_links:
@@ -44,8 +44,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/203146825'
 title: 'Teaser for Session [x] online! '
-datePublished: '2017-03-12T21:06:24.484Z'
-dateModified: '2017-03-12T21:06:24.008Z'
+datePublished: '2017-03-12T21:06:30.025Z'
+dateModified: '2017-03-12T21:06:29.531Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-12-session-x-teaser-2017-q1.md
