@@ -11,10 +11,10 @@ publisher:
   domain: vimeo.com
 keywords: []
 description: >-
-  An experience-orientated performance that tries to discover and research the
-  affect of the human breath through both performance art and sound. It is also
-  a very physical performance that invites the public to embrace the moment
-  where time seems to freeze, slow-down and speed-up.
+  Session [x}  is an experience-orientated performance that tries to discover
+  and research the affect of the human breath through both performance art and
+  sound. It is also a very physical performance that invites the public to
+  embrace the moment where time seems to freeze, slow-down and speed-up.
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/203146825'
     type: ios
@@ -43,16 +43,21 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/203146825'
-title: 'Session [x] Teaser 2017 Q1'
-datePublished: '2017-03-12T20:46:06.232Z'
-dateModified: '2017-03-12T20:45:19.954Z'
-datePublishedOriginal: '2017-03-12T20:46:06.232Z'
+title: 'Teaser for Session [x] online! '
+datePublished: '2017-03-12T21:06:24.484Z'
+dateModified: '2017-03-12T21:06:24.008Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-12-session-x-teaser-2017-q1.md
+starred: false
+datePublishedOriginal: '2017-03-12T20:46:06.232Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+# Teaser for Session \[x\] online! 
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F203146825&amp;url=https%3A%2F%2Fvimeo.com%2F203146825&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F617351038_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+**Session \[x} **  
+is an experience-orientated performance that tries to discover and research the affect of the human breath through both performance art and sound. It is also a very physical performance that invites the public to embrace the moment where time seems to freeze, slow-down and speed-up.
