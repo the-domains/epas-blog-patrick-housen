@@ -56,15 +56,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/patrick-housen/round-the-corner-1'
 title: '‘Round The Corner [1]'
-datePublished: '2017-03-12T22:55:13.906Z'
-dateModified: '2017-03-12T22:55:13.409Z'
+datePublished: '2017-03-12T22:55:21.449Z'
+dateModified: '2017-03-12T22:55:20.615Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-round-the-corner-1-by-patrick-housen.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:38:18.925Z'
+url: round-the-corner-1/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
