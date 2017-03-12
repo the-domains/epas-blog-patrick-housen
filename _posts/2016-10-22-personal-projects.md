@@ -1,6 +1,6 @@
 ---
 description: 'My personal workspace @NFA during Module2 '
-datePublished: '2017-03-12T23:02:58.979Z'
+datePublished: '2017-03-12T23:04:11.532Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
@@ -8,7 +8,7 @@ hasPage: true
 title: Overview of Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T23:02:58.489Z'
+dateModified: '2017-03-12T23:04:10.879Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
@@ -48,9 +48,10 @@ _type: Article
 
 ## Other Relevant Projects
 
-* My new found view on composing:"Composing from soundscapes and Temp tracks "
+* Composing \[2.0\]"Composing from soundscapes and Temp tracks "
 * Musica futurista workshops
 * spectra live-electronics
+* Bl!ndman - Molecule Project
 
 [0]: http://epas.patrickhousen.site/iscream-1 "More about iScream[1]"
 [1]: http://epas.patrickhousen.site/more-info-on-under-the-skin-x "More info on Under the Skin [x]"
