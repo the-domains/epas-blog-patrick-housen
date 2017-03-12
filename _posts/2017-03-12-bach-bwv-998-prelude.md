@@ -63,13 +63,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/sKcFpLi7Iro'
 title: Bach- BWV 998 Prelude
-datePublished: '2017-03-12T22:22:26.525Z'
-dateModified: '2017-03-12T22:21:20.662Z'
-datePublishedOriginal: '2017-03-12T22:22:26.525Z'
+datePublished: '2017-03-12T22:24:41.255Z'
+dateModified: '2017-03-12T22:24:40.647Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-03-12-bach-bwv-998-prelude.md
+starred: false
+datePublishedOriginal: '2017-03-12T22:22:26.525Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
