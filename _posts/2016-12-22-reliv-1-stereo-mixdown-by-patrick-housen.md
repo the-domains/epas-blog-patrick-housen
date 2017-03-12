@@ -56,15 +56,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/patrick-housen/reliv-1-stereo-mixdown'
 title: 'ReliV [1] Stereo Mixdown by Patrick Housen'
-datePublished: '2017-03-12T22:24:41.258Z'
-dateModified: '2017-03-12T22:24:40.647Z'
+datePublished: '2017-03-12T22:53:05.464Z'
+dateModified: '2017-03-12T22:53:04.578Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-reliv-1-stereo-mixdown-by-patrick-housen.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:38:16.781Z'
+url: reliv-1-stereo-mixdown-by-patrick-housen/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
