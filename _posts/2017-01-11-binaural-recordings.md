@@ -1,13 +1,13 @@
 ---
 description: October 2016
-datePublished: '2017-01-12T10:46:40.073Z'
+datePublished: '2017-03-12T20:45:01.895Z'
 author: []
 via: {}
 sourcePath: _posts/2017-01-11-binaural-recordings.md
 hasPage: true
 title: Binaural Recordings
 publisher: {}
-dateModified: '2017-01-12T10:46:39.059Z'
+dateModified: '2017-03-12T20:45:01.303Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-11T22:26:46.044Z'
