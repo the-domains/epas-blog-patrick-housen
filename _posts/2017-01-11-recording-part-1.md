@@ -1,13 +1,13 @@
 ---
 description: November 2016
-datePublished: '2017-03-12T21:03:08.105Z'
+datePublished: '2017-03-12T21:04:29.287Z'
 author: []
 via: {}
 sourcePath: _posts/2017-01-11-recording-part-1.md
 hasPage: true
-title: 'Recording for Session [x] & ReLiV [1]'
+title: 'Notes & Reflections on  days of Recording  Session [x] & ReLiV [1]'
 publisher: {}
-dateModified: '2017-03-12T21:03:07.301Z'
+dateModified: '2017-03-12T21:04:28.668Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-11T21:56:51.350Z'
@@ -17,7 +17,8 @@ _type: Article
 ---
 November 2016
 
-## **Recording for Session \[x\] & ReLiV \[1\]**
+## Notes & Reflections on ****_**days of Recording **_**Session \[x\] & ReLiV \[1\]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb232875-93d7-4308-bfeb-cec67a236714.jpg)
 
 ---
 
@@ -48,7 +49,6 @@ I was giving a workshop 'Musica Futurista' for Matrix - Centre of New Music, on 
 
 trying out the DPA4041 mic's because well.... you gotta start somewhere... or in this case not one place but two at the same time! (insert stereo joke here...). So I started messing around with some "stereo" set-ups in my kitchen and the rest of my studio. After first getting acquainted with the - very awesome and rather easy to use - recorder and the DPA's again, it was time to get those C414 beauties out and make 'em shine. Don't pay attention to the stuff all over my apartment, the picture are just there to give you an insight in the DIY set-up's and testing-scenario's. After a few test-recordings, we went downstairs Checking out the acoustic & recording qualities of the audio-recorder, mic's and the rooms themselves! This obviously led to some more experimentation, who should have guessed? ;-) So... we went inside the toilet to record. We used the C414 as stereo pair in the toilet and messed around with the location of the 2 4041's (inside the room, outside the room, outside with window open) what an incredible sonic experience ... bathrooms will never be the same again.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09431d66-afed-486a-9065-6080f4e80f3e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb232875-93d7-4308-bfeb-cec67a236714.jpg)
 
 https://the-grid-user-content.s3-us-west-2.amazonaws.com/b092a148-8622-4588-8a83-cfe906653524.jpg
 
