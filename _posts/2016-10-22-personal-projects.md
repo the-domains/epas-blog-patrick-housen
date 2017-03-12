@@ -1,6 +1,6 @@
 ---
 description: 'Final Pesonal Project — Session[x]'
-datePublished: '2017-03-12T21:24:30.103Z'
+datePublished: '2017-03-12T21:26:08.273Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
@@ -8,7 +8,7 @@ hasPage: false
 title: Personal Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T21:24:29.711Z'
+dateModified: '2017-03-12T21:26:07.780Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
