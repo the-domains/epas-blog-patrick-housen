@@ -1,6 +1,6 @@
 ---
 description: 'My personal workspace @NFA during Module2 '
-datePublished: '2017-03-12T22:44:12.474Z'
+datePublished: '2017-03-12T22:48:28.839Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
@@ -8,7 +8,7 @@ hasPage: true
 title: Overview of Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T22:44:11.978Z'
+dateModified: '2017-03-12T22:48:28.356Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
@@ -21,7 +21,7 @@ _type: Article
 
 ## Personal Projects Semester 1
 
-## Final artistic Projects 
+## Final artistic Projects
 
 ## Other Relevant Projects
 
@@ -35,13 +35,13 @@ _type: Article
 * Mod 2 - ReViz\[1\] w/ Ben Zijlstra & Michel Schopping
 * Mod 3 - Group Installation w/ Els Viaene
 * Mod 4 - 'Round the Corner w/ Larry Sider
-* Mod 4 - **Under the Skin \[x\]** - w/ Martin Parker
+* Mod 4 - **[Under the Skin \[x\]][0]** - w/ Martin Parker
 * Mod 4 - ReLiV \[1\] - w/ André Bendocchi-Alves
 * Mod 5 - Installation - w/ Hans-Peter Kuhn
 * * **Blindfold Day**
 * ## Final Artistic Projects
 
-1. **Performance art - **_**Session \[x\]**_****
+1. **Performance art - **_**Session \[x\]**_
 2. **Sounddesign and mixing of an animation film - **_**Julienne**_
 
 ## Other Relevant Projects
@@ -49,3 +49,5 @@ _type: Article
 * My new found view on composing:"Composing from soundscapes and Temp tracks "
 * Musica futurista workshops
 * spectra live-electronics
+
+[0]: http://epas.patrickhousen.site/more-info-on-under-the-skin-x "More info on Under the Skin [x]"
