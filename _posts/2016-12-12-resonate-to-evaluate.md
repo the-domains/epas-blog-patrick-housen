@@ -1,12 +1,12 @@
 ---
 inFeed: true
 author: []
-dateModified: '2017-01-12T10:46:39.059Z'
+dateModified: '2017-03-12T20:45:01.303Z'
 via: {}
 title: Resonate to evaluate
 publisher: {}
 description: 20th of December 2016
-datePublished: '2017-01-12T10:46:39.894Z'
+datePublished: '2017-03-12T20:45:01.886Z'
 sourcePath: _posts/2016-12-12-resonate-to-evaluate.md
 hasPage: false
 starred: false
