@@ -1,6 +1,6 @@
 ---
 description: 'My personal workspace @NFA during Module2 '
-datePublished: '2017-03-12T22:48:28.839Z'
+datePublished: '2017-03-12T22:52:17.189Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
@@ -8,7 +8,7 @@ hasPage: true
 title: Overview of Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T22:48:28.356Z'
+dateModified: '2017-03-12T22:52:16.730Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
@@ -39,7 +39,9 @@ _type: Article
 * Mod 4 - ReLiV \[1\] - w/ André Bendocchi-Alves
 * Mod 5 - Installation - w/ Hans-Peter Kuhn
 * * **Blindfold Day**
-* ## Final Artistic Projects
+* **[Binaural Recordings][1]**
+
+## Final Artistic Projects
 
 1. **Performance art - **_**Session \[x\]**_
 2. **Sounddesign and mixing of an animation film - **_**Julienne**_
@@ -51,3 +53,4 @@ _type: Article
 * spectra live-electronics
 
 [0]: http://epas.patrickhousen.site/more-info-on-under-the-skin-x "More info on Under the Skin [x]"
+[1]: http://epas.patrickhousen.site/binaural-recordings "Binaural Recordings"
