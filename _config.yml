@@ -18,10 +18,6 @@ author:
   url: 'http://patrickhousen.com'
 name: Patrick's EPAS Blog
 url: 'http://epas.patrickhousen.site'
-navigation:
-  - name: Module 1 - On Listening
-    id: 26fc17de-0035-46db-a1f5-5384d1d21874
-    type: content
 collections:
   - index:
       path: /
