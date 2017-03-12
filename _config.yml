@@ -18,6 +18,10 @@ author:
   url: 'http://patrickhousen.com'
 name: Patrick's EPAS Blog
 url: 'http://epas.patrickhousen.site'
+navigation:
+  - name: Projects Overview
+    id: afb8d034-41cd-4c00-969b-7587a4165c9e
+    type: content
 collections:
   - index:
       path: /
@@ -40,19 +44,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff638e15-d348-4787-af6a-4b7c52e040f8.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
