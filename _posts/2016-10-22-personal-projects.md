@@ -1,6 +1,6 @@
 ---
-description: 'My personal workspace @NFA during Module2 '
-datePublished: '2017-03-12T22:14:00.447Z'
+description: Click on the names to go to the projects page.
+datePublished: '2017-03-12T22:16:08.523Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
@@ -8,7 +8,7 @@ hasPage: false
 title: Overview of  Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T22:13:59.871Z'
+dateModified: '2017-03-12T22:16:08.087Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
@@ -20,6 +20,14 @@ _type: Blurb
 
 ## Personal Projects
 
+## Final artistic Project 
+
+## Other Projects
+
+Click on the names to go to the projects page.
+
+## Personal Projects
+
 * Mod 1 - iScream\[1\] & iScream\[2\] w/ Annabelle Pangborn
 * Mod 2 - ReViz\[1\] w/ Ben Zijlstra & Michel Schopping
 * Mod 3 - Group Installation w/ Els Viaene
@@ -28,7 +36,7 @@ _type: Blurb
 * Mod 4 - ReLiV \[1\] - w/ André Bendocchi-Alves
 * Mod 5 - Installation - w/ Hans-Peter Kuhn
 * * Blindfold Day
-* ## Final Personal Project   
+* ## Final Artistic Project   
 **Session \[x\]**
 
 ## Other artistic projects
