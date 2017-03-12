@@ -1,6 +1,6 @@
 ---
 description: 'My personal workspace @NFA during Module2 '
-datePublished: '2017-03-12T22:52:17.189Z'
+datePublished: '2017-03-12T22:57:57.842Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
@@ -8,7 +8,7 @@ hasPage: true
 title: Overview of Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T22:52:16.730Z'
+dateModified: '2017-03-12T22:57:57.237Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
@@ -31,15 +31,15 @@ _type: Article
 
 ## Personal Projects
 
-* Mod 1 - iScream\[1\] & iScream\[2\] w/ Annabelle Pangborn
-* Mod 2 - ReViz\[1\] w/ Ben Zijlstra & Michel Schopping
+* Mod 1 - **[iScream\[1\]][0]** & iScream\[2\] w/ Annabelle Pangborn
+* Mod 2 - **ReViz\[1\]** w/ Ben Zijlstra & Michel Schopping
 * Mod 3 - Group Installation w/ Els Viaene
 * Mod 4 - 'Round the Corner w/ Larry Sider
-* Mod 4 - **[Under the Skin \[x\]][0]** - w/ Martin Parker
+* Mod 4 - **[Under the Skin \[x\]][1]** - w/ Martin Parker
 * Mod 4 - ReLiV \[1\] - w/ André Bendocchi-Alves
 * Mod 5 - Installation - w/ Hans-Peter Kuhn
 * * **Blindfold Day**
-* **[Binaural Recordings][1]**
+* **[Binaural Recordings][2]**
 
 ## Final Artistic Projects
 
@@ -52,5 +52,6 @@ _type: Article
 * Musica futurista workshops
 * spectra live-electronics
 
-[0]: http://epas.patrickhousen.site/more-info-on-under-the-skin-x "More info on Under the Skin [x]"
-[1]: http://epas.patrickhousen.site/binaural-recordings "Binaural Recordings"
+[0]: http://epas.patrickhousen.site/iscream-1 "More about iScream[1]"
+[1]: http://epas.patrickhousen.site/more-info-on-under-the-skin-x "More info on Under the Skin [x]"
+[2]: http://epas.patrickhousen.site/binaural-recordings "Binaural Recordings"
