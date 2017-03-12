@@ -1,13 +1,13 @@
 ---
 description: A collection of my binaural recording during the EPAS postgraduate
-datePublished: '2017-03-12T21:19:20.204Z'
+datePublished: '2017-03-12T21:24:30.129Z'
 author: []
 via: {}
 sourcePath: _posts/2017-01-11-binaural-recordings.md
 hasPage: true
 title: Binaural Recordings
 publisher: {}
-dateModified: '2017-03-12T21:19:19.780Z'
+dateModified: '2017-03-12T21:24:29.711Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-11T22:26:46.044Z'
