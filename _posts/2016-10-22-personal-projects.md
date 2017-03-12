@@ -1,6 +1,6 @@
 ---
 description: 'My personal workspace @NFA during Module2 '
-datePublished: '2017-03-12T22:57:57.842Z'
+datePublished: '2017-03-12T23:02:58.979Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
@@ -8,7 +8,7 @@ hasPage: true
 title: Overview of Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T22:57:57.237Z'
+dateModified: '2017-03-12T23:02:58.489Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
@@ -36,10 +36,10 @@ _type: Article
 * Mod 3 - Group Installation w/ Els Viaene
 * Mod 4 - 'Round the Corner w/ Larry Sider
 * Mod 4 - **[Under the Skin \[x\]][1]** - w/ Martin Parker
-* Mod 4 - ReLiV \[1\] - w/ André Bendocchi-Alves
+* Mod 4 - **[ReLiV \[1\]][2]** - w/ André Bendocchi-Alves
 * Mod 5 - Installation - w/ Hans-Peter Kuhn
 * * **Blindfold Day**
-* **[Binaural Recordings][2]**
+* **[Binaural Recordings][3]**
 
 ## Final Artistic Projects
 
@@ -54,4 +54,5 @@ _type: Article
 
 [0]: http://epas.patrickhousen.site/iscream-1 "More about iScream[1]"
 [1]: http://epas.patrickhousen.site/more-info-on-under-the-skin-x "More info on Under the Skin [x]"
-[2]: http://epas.patrickhousen.site/binaural-recordings "Binaural Recordings"
+[2]: http://epas.patrickhousen.site/reliv-1-stereo-mixdown-by-patrick-housen "info on ReLiV [1]"
+[3]: http://epas.patrickhousen.site/binaural-recordings "Binaural Recordings"
