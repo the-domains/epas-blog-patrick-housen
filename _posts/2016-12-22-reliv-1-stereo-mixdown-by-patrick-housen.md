@@ -18,7 +18,7 @@ keywords:
   - tracks
   - music
   - soundcloud
-description: October 2016
+description: November 2016
 app_links:
   - type: ios
     namespace: ai
@@ -57,8 +57,8 @@ app_links:
     namespace: google
     type: ios
 title: 'ReliV [1]'
-datePublished: '2017-03-12T23:00:51.799Z'
-dateModified: '2017-03-12T23:00:50.814Z'
+datePublished: '2017-03-12T23:02:06.180Z'
+dateModified: '2017-03-12T23:02:05.586Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-reliv-1-stereo-mixdown-by-patrick-housen.md
@@ -70,7 +70,7 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-October 2016
+November 2016
 
 # ReliV \[1\]
 
