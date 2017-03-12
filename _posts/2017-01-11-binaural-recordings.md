@@ -1,13 +1,13 @@
 ---
-description: October 2016
-datePublished: '2017-03-12T20:45:01.895Z'
+description: A collection of my binaural recording during the EPAS postgraduate
+datePublished: '2017-03-12T20:45:58.014Z'
 author: []
 via: {}
 sourcePath: _posts/2017-01-11-binaural-recordings.md
 hasPage: true
 title: Binaural Recordings
 publisher: {}
-dateModified: '2017-03-12T20:45:01.303Z'
+dateModified: '2017-03-12T20:45:57.400Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-11T22:26:46.044Z'
@@ -15,11 +15,8 @@ url: binaural-recordings/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0043d79e-014c-4400-9201-293fc13f74e2.jpg)
-
-_October 2016_
-
 # Binaural Recordings
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/607afac42eabdff81692ed1321c9d0d8/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0043d79e-014c-4400-9201-293fc13f74e2.jpg&x=0&y=0)
 
 A collection of my binaural recording during the EPAS postgraduate
 
@@ -67,7 +64,7 @@ Ah the cleaning ladies... Since I did my undergrad and grad studies as a compose
 October 2016 @[NFA][0], Amsterdam (NL)  
 Mentor: Cilia Erens & Martine Huvenne  
 equipment used: Roland-R26 + DPA4041 microphones.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/552b3fd8-e6ce-434f-b693-930ceed8e678.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d2401d8c261c89d1324c328d1d4b70a2/croprotate.jpg?cropheight=960&cropwidth=1280&degrees=-180&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F552b3fd8-e6ce-434f-b693-930ceed8e678.jpg&x=0&y=0)
 
 These are two unedited examples of exercises given to us to hone our recording capabilities & realising the importance of your own body and movement when recording.
 
