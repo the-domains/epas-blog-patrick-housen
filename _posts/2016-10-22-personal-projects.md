@@ -1,18 +1,19 @@
 ---
 description: Click on the names to go to the projects page.
-datePublished: '2017-03-12T22:16:08.523Z'
+datePublished: '2017-03-12T22:16:25.963Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
-hasPage: false
+hasPage: true
 title: Overview of  Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-03-12T22:16:08.087Z'
+dateModified: '2017-03-12T22:16:25.374Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
-_type: Blurb
+url: overview-of-projects/index.html
+_type: Article
 
 ---
 # Overview of Projects
