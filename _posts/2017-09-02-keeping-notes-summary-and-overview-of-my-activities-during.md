@@ -1,18 +1,18 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-09-02T10:55:46.847Z'
-datePublished: '2017-09-02T10:55:48.080Z'
+description: 'Week05 - 30/01/2017 - Session [x] "sounds" with Mathilde + finishing teaser'
+dateModified: '2017-09-02T10:56:57.209Z'
+datePublished: '2017-09-02T10:56:58.084Z'
 title: >-
   Keeping notes… Summary and overview of my activities during the second
   semester
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-09-02T10:55:48.080Z'
 sourcePath: >-
   _posts/2017-09-02-keeping-notes-summary-and-overview-of-my-activities-during.md
+starred: false
+datePublishedOriginal: '2017-09-02T10:55:48.080Z'
 _type: Blurb
 
 ---
