@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-02T11:10:19.080Z'
-datePublished: '2017-09-02T11:10:19.813Z'
+dateModified: '2017-09-02T11:10:33.280Z'
+datePublished: '2017-09-02T11:10:34.950Z'
 title: References / Literature list
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-02-references-literature-list.md
 starred: false
 datePublishedOriginal: '2017-09-02T11:10:19.813Z'
-sourcePath: _posts/2017-09-02-references-literature-list.md
 _type: Blurb
 
 ---
