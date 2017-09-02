@@ -7,8 +7,8 @@ description: >-
   as continue to expand it. And the best thing about this process is to
   experience how the ifs grows and develops. Film is life, film is passion and
   film should be fun! All this is possible here!”
-dateModified: '2017-09-02T11:08:26.677Z'
-datePublished: '2017-09-02T11:08:27.372Z'
+dateModified: '2017-09-02T11:55:51.491Z'
+datePublished: '2017-09-02T11:55:53.064Z'
 title: MEETING WITH THE MENTOR….
 author: []
 publisher: {}
