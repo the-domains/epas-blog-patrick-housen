@@ -42,8 +42,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/203148618'
 title: Kask Cinema Trailer 2017
-datePublished: '2017-09-02T11:47:40.656Z'
-dateModified: '2017-09-02T11:47:39.881Z'
+datePublished: '2017-09-02T11:55:53.065Z'
+dateModified: '2017-09-02T11:55:51.491Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-12-kask-cinema-trailer-2017.md
