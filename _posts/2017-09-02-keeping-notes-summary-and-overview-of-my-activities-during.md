@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Noise reduction: Working with Izotope noise removal software on session [2]
   performance @ cirque
-dateModified: '2017-09-02T11:54:19.867Z'
-datePublished: '2017-09-02T11:54:26.983Z'
+dateModified: '2017-09-02T11:55:51.491Z'
+datePublished: '2017-09-02T11:55:57.051Z'
 title: >-
   Keeping notes… Summary and overview of my activities during the second
   semester
@@ -37,7 +37,7 @@ importance of subtlety in sound!
 
 working on temp track wonderlands for the New What Now
 
-**Week06 - 06/02/2017**
+## **Week06 - 06/02/2017**
 
 11/02/2017 - Prepping and performance of Session \[x\] \[3\] @ In de Ruimte, Ghent.
 
@@ -57,13 +57,13 @@ _performance session \[x\] \[3\] _planning:
 
 22.00 Session-\[x\] Performance
 
-**Week07 - 13/02/2017**
+## **Week07 - 13/02/2017**
 
 session-\[x\] evaluation up 'till now
 
 see picture document added at the end of the diary.
 
-**Week08 - 20/02/2017**
+## **Week08 - 20/02/2017**
 
 20/02/2017
 
@@ -83,27 +83,17 @@ Starting from the first module Narrative vs conceptual: Creation of video van se
 
 _**Insert link!!!**_
 
-22/02/2017
-
-Session \[x\] rehearsal with a meeting with video artist Maxime Jean-Baptiste
+22/02/2017 - Session \[x\] rehearsal with a meeting with video artist Maxime Jean-Baptiste
 
 Afterwards Filming for Wonderlands In Betwi\[x\]t with Maxime.
 
-23/02/2017
+23/02/2017 - dpa's ophalen klanklabo - rehearsal @Nederpolder Session-\[x\]
 
-dpa's ophalen klanklabo
+24/02/2017 - Presenting myself as a composer for upcoming molecule project with Bl!ndman @HISK \[Ghent\]
 
-rehearsal @Nederpolder Session \[x\] & in Betwi\[x\]t
+25/02/2017 - Session-\[x\] - recordings pt 3
 
-24/02/2017
-
-Presenting myself as a composer for upcoming molecule project with Bl!ndman @HISK \[Ghent\]
-
-25/02/2017
-
-P - Session \[x\] - recordings pt 3
-
-**Week09 - 27/02/2017**
+## **Week09 - 27/02/2017**
 
 27/02/2017  
 Guitar Recordings newly build guitar by Tim Duyck
@@ -118,7 +108,7 @@ visiting artists@HISK-day 2
 
 04/03/2017 - Deadline composing for In Betwi\[x\]t
 
-**Week10 - 06/03/2017**
+## **Week10 - 06/03/2017**
 
 07/03/2017  
 Meeting Mathilde to evaluate our current performance  
@@ -135,7 +125,9 @@ FOTO!
 10/03/2017  
 Returning equipment for field recordings
 
-**Week11 - first visit to the IFS = making planning + workflow setup**
+## **Week11 **
+
+**- first visit to the IFS = making planning + workflow setup**
 
 13/03/2017 - Jorghe Ihle - Transmedia Storyworlds
 
