@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 29/05
-dateModified: '2017-09-02T11:10:33.280Z'
-datePublished: '2017-09-02T11:10:34.843Z'
+dateModified: '2017-09-02T11:47:39.881Z'
+datePublished: '2017-09-02T11:47:40.656Z'
 title: 'Sound Editing and my love for a audio-wise qualitative room '
 author: []
 publisher: {}
