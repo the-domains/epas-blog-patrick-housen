@@ -57,8 +57,8 @@ app_links:
     namespace: google
     type: ios
 title: '‘Round The Corner [1]'
-datePublished: '2017-03-12T22:55:21.449Z'
-dateModified: '2017-03-12T22:55:20.615Z'
+datePublished: '2017-09-02T10:56:58.121Z'
+dateModified: '2017-09-02T10:56:57.209Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-round-the-corner-1-by-patrick-housen.md
