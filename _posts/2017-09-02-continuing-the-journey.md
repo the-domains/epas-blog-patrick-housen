@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Composing 2.0 - sound as cornerstone of my new process.
-dateModified: '2017-09-02T11:10:33.280Z'
-datePublished: '2017-09-02T11:10:34.948Z'
+dateModified: '2017-09-02T11:55:51.491Z'
+datePublished: '2017-09-02T11:55:53.039Z'
 title: "Continuing the Journey!\_"
 author: []
 publisher: {}
