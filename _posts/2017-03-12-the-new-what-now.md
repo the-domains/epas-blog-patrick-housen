@@ -12,8 +12,8 @@ inLanguage: nl
 app_links: []
 isBasedOnUrl: 'http://www.thenewwhatnow.com/concerten/wonderlands.html'
 title: The New What Now
-datePublished: '2017-09-02T10:56:58.121Z'
-dateModified: '2017-09-02T10:56:57.209Z'
+datePublished: '2017-09-02T11:08:27.387Z'
+dateModified: '2017-09-02T11:08:26.677Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-12-the-new-what-now.md
