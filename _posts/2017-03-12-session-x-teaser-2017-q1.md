@@ -44,8 +44,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/203146825'
 title: 'Teaser for Session [x] online! '
-datePublished: '2017-09-02T11:08:27.380Z'
-dateModified: '2017-09-02T11:08:26.677Z'
+datePublished: '2017-09-02T11:10:34.727Z'
+dateModified: '2017-09-02T11:10:33.280Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-12-session-x-teaser-2017-q1.md
