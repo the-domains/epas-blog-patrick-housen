@@ -1,13 +1,13 @@
 ---
 description: November 2016
-datePublished: '2017-09-02T10:56:58.065Z'
+datePublished: '2017-09-02T11:08:27.382Z'
 author: []
 via: {}
 sourcePath: _posts/2017-01-11-recording-part-1.md
 hasPage: true
 title: 'Notes & Reflections on days of Recording Session [x] & ReLiV [1]'
 publisher: {}
-dateModified: '2017-09-02T10:56:57.209Z'
+dateModified: '2017-09-02T11:08:26.677Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-11T21:56:51.350Z'
