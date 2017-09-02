@@ -57,8 +57,8 @@ app_links:
     namespace: google
     type: ios
 title: 'iScream [1]'
-datePublished: '2017-03-12T22:54:38.272Z'
-dateModified: '2017-03-12T22:54:37.947Z'
+datePublished: '2017-09-02T10:56:58.125Z'
+dateModified: '2017-09-02T10:56:57.209Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-iscream-2-clean-edit-by-patrick-housen.md
