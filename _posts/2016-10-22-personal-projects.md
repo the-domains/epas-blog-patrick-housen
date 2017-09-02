@@ -1,6 +1,6 @@
 ---
 description: 'My personal workspace @NFA during Module2 '
-datePublished: '2017-09-02T10:56:58.117Z'
+datePublished: '2017-09-02T11:08:27.356Z'
 author: []
 via: {}
 sourcePath: _posts/2016-10-22-personal-projects.md
@@ -8,7 +8,7 @@ hasPage: true
 title: Overview of Projects
 publisher:
   name: Patrick Housen
-dateModified: '2017-09-02T10:56:57.209Z'
+dateModified: '2017-09-02T11:08:26.677Z'
 inFeed: true
 starred: false
 datePublishedOriginal: '2017-01-12T10:27:37.457Z'
