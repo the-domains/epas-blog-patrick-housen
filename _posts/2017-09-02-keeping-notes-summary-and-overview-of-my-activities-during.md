@@ -1,8 +1,10 @@
 ---
 inFeed: true
-description: 'Week05 - 30/01/2017 - Session [x] "sounds" with Mathilde + finishing teaser'
-dateModified: '2017-09-02T10:56:57.209Z'
-datePublished: '2017-09-02T10:56:58.084Z'
+description: >-
+  Noise reduction: Working with Izotope noise removal software on session [2]
+  performance @ cirque
+dateModified: '2017-09-02T11:54:19.867Z'
+datePublished: '2017-09-02T11:54:26.983Z'
 title: >-
   Keeping notes… Summary and overview of my activities during the second
   semester
@@ -11,14 +13,17 @@ publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-09-02-keeping-notes-summary-and-overview-of-my-activities-during.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-09-02T10:55:48.080Z'
-_type: Blurb
+url: keeping-notes-summary-and-overview-of-my-activities-during/index.html
+_type: Article
 
 ---
 # **Keeping notes... Summary and overview of my activities during the second semester**
 
-**Week05 - 30/01/2017** - Session \[x\] "sounds" with Mathilde + finishing teaser
+## **Week05 - 30/01/2017**  
+Session \[x\] "sounds" with Mathilde + finishing teaser
 
 Noise reduction: Working with Izotope noise removal software on session \[2\] performance @ cirque
 
@@ -28,25 +33,25 @@ implementing the noise removed audio into my pro tools session to make teaser
 
 Finishing teaser session \[x\] w/ Mathilde strijdonk @home studio!
 
-importance of subtlety in sound! 
+importance of subtlety in sound!
 
 working on temp track wonderlands for the New What Now
 
-**Week06 - 06/02/2017 **
+**Week06 - 06/02/2017**
 
 11/02/2017 - Prepping and performance of Session \[x\] \[3\] @ In de Ruimte, Ghent.
 
 _performance session \[x\] \[3\] _planning:
 
-11.00 - 12.00 technical set-up  + exploring the space audio-wise
+11.00 - 12.00 technical set-up + exploring the space audio-wise
 
 12.00 - 15.00 rehearsal
 
 20.00 @campo: Short introductory talk about our performance before start of other show.
 
-20.15 - dinner 
+20.15 - dinner
 
-21.00 - 21.30 linecheck + warm-up Mathilde 
+21.00 - 21.30 linecheck + warm-up Mathilde
 
 21.40 Doors open
 
@@ -64,7 +69,7 @@ see picture document added at the end of the diary.
 
 Project room available @Nedrepolder ---\> making installation set-up there.
 
-installation: creating lines of speakers  to form a bigger construction  that follows the movement of mathilde
+installation: creating lines of speakers to form a bigger construction that follows the movement of mathilde
 
 Composing 2.0: Building new vocabulary to work on composition In Betwi\[x\]t for the New What Now
 
@@ -72,9 +77,9 @@ Composing 2.0: Building new vocabulary to work on composition In Betwi\[x\]t for
 
 rehearsal session \[x\]
 
-composing 2.0  In Bewi\[x\]t
+composing 2.0 In Bewi\[x\]t
 
-Starting from the first module  Narrative vs conceptual: Creation of video van session \[3\]
+Starting from the first module Narrative vs conceptual: Creation of video van session \[3\]
 
 _**Insert link!!!**_
 
@@ -121,8 +126,7 @@ Meeting Wim Pelgrims for new founded ensemble.
 
 08/03/2017  
 Meeting Mathilde pt 2  
-Meeting Romane **- start collaboration   
-**Sitting at the info afternoon @School of Arts in Ghent to represent EPAS.
+Meeting Romane **- start collaboration **Sitting at the info afternoon @School of Arts in Ghent to represent EPAS.
 
 09/03/2017 - \[field\] recordings for Julienne around Ghent  
 No spot where there is no car heard...  
@@ -137,7 +141,7 @@ Returning equipment for field recordings
 
 10.15 presenting myself - very nice and hearted welcome by diverse group
 
-10.45  Jorge Transmedia presentation
+10.45 Jorge Transmedia presentation
 
 went from films ---\> via games ---\> to toys/themeparks (Europark)
 
@@ -157,9 +161,9 @@ A great _**storyworld**_ takes me to a place that lets me...
 
 • complexity of storyworlds ---\> angry birds, Donkey Kong, Pac-Man vs Bible or Lord of the Rings, ...
 
-_**==\>**__**Very interesting for my question ---\> concept vs narrative!!! (storyworld vs story)**_
+_**==\>Very interesting for my question ---\> concept vs narrative!!! (storyworld vs story)**_
 
-It's all about the big **"What if?"** question. (High-concept): 
+It's all about the big **"What if?"** question. (High-concept):
 
 define this as precise and specific as possible when communicating this
 
@@ -195,9 +199,9 @@ burning man experience from Jorghe with the thunderdome from mad max
 
 Immersion in Games
 
-Leaning forward (actively participating) vs Leaning backward (coach potato) 
+Leaning forward (actively participating) vs Leaning backward (coach potato)
 
-▾ New Founding fathers of America ---\> _**The Purge **_
+▾ New Founding fathers of America ---\> _**The Purge**_
 
 • What IF ... For one night a year, there are no rules
 
@@ -217,9 +221,9 @@ Jorge works for MackMedia (company behind Europark)
 
 • Everything is nowadays related to licensing
 
-15.30 Exercise 1  - pitch a concept with the 6 elements - "Whale-Unition"
+15.30 Exercise 1 - pitch a concept with the 6 elements - "Whale-Unition"
 
-14/03/2017 -  Jorghe Ihle & Dominik .... - Transmedia Storyworlds
+14/03/2017 - Jorghe Ihle & Dominik .... - Transmedia Storyworlds
 
 10.00 insight in their working process and ways they work:
 
@@ -229,19 +233,19 @@ about **dramaturgy**
 
 combination of _**craft**_ (commercial) & _**inspiration**_ ("artsy")
 
-3 act story (the hero's journey) & the 8 sequence template (from the [scriptlab.com][0]) 
+3 act story (the hero's journey) & the 8 sequence template (from the [scriptlab.com][0])
 
-Jorg and Dominik their Dramaturgy version applied in:  Adventure Club of Europe (trans-media brand) 
+Jorg and Dominik their Dramaturgy version applied in: Adventure Club of Europe (trans-media brand)
 
 13.00 lunch
 
 13.45 Pitching everyones story/project in group
 
-16.00 meeting with the Dean (Simone) & Su 
+16.00 meeting with the Dean (Simone) & Su
 
-17.00 Guided tour from the whole ifs by Su + call to jacha 
+17.00 Guided tour from the whole ifs by Su + call to jacha
 
-What I definitely picked up: 
+What I definitely picked up:
 
 -Make sure people can relate to your concept/story!
 
@@ -269,13 +273,13 @@ deciding on the project: make it interactive, Kinect (for her) - Leap motion! (F
 
 * example from reaktor that jascha worked with
 
-•the 4 stances of the 4 characters define the atmospheres  is a starting point.
+•the 4 stances of the 4 characters define the atmospheres is a starting point.
 
-Using 5.1 cinema set-up - M. in center speaker -  comparison to start of a film ---\>  from center to sides ---\> opening it up! 
+Using 5.1 cinema set-up - M. in center speaker - comparison to start of a film ---\> from center to sides ---\> opening it up!
 
-▾ important to develop together: Defining the reactive parts and the most important sounds 
+▾ important to develop together: Defining the reactive parts and the most important sounds
 
-16/03/2017  - Lena Thiele und Nanna Heidenreich „Westworld"
+16/03/2017 - Lena Thiele und Nanna Heidenreich „Westworld"
 
 10.00 Presentation by Lena ---\> Immersion and presence "at the center of it all: presence"
 
@@ -285,7 +289,7 @@ as property of the system: perceptual respons to that system
 
 Response to an unfolding narrative, the diegetic space, or virtual characters
 
-immersion as a response to challenges demanding use of one's intellect or skill (gaming def) 
+immersion as a response to challenges demanding use of one's intellect or skill (gaming def)
 
 Some ways to describe it: "being somewhere without being there", "trying death, without the cost"
 
@@ -295,9 +299,9 @@ challenge-based immersion (0,0,1), narrative immersion (1,0,0), system immersion
 
 13.00 lunch
 
-14.00continue presentation 
+14.00continue presentation
 
-**USING LOOPED NARRATIVES FOR SESSION \[x\] for all 4 characters? (see westworld) **
+**USING LOOPED NARRATIVES FOR SESSION \[x\] for all 4 characters? (see westworld)**
 
 17/03/2017 - Visiting Ludwig museum and goodbye party @ marcus
 
@@ -317,12 +321,11 @@ challenge-based immersion (0,0,1), narrative immersion (1,0,0), system immersion
 
 24/03/2017 Talk with head of research at School of Arts Ghent: Katrine Vuylsteke Vanfleteren
 
-26/03/2017 soldering kinects 1 & 2  FOTO
+26/03/2017 soldering kinects 1 & 2 FOTO
 
-  
 **Week13 - 27/03/2017 - start residency @campo**
 
-27/03/2017 
+27/03/2017
 
 picking-up & setting-up speakers to rehearse in Campo (Ghent) on interactivity
 
@@ -342,7 +345,7 @@ working by myself on sound design + interactivity
 
 picking up materials @gotron, morning live-electronics lessons giving to Karel Stulens (2nd year bachelor)
 
-installation:  manual-\[x\]-communication, news about playing on theater aan zee 
+installation: manual-\[x\]-communication, news about playing on theater aan zee
 
 30/03/2017
 
@@ -362,7 +365,7 @@ getting to know quartz composer and Processing and all the open osc ways of tran
 
 02/04/2017
 
-workflow protools met bcf2000 optimised  
+workflow protools met bcf2000 optimised
 
 going over different patches from max msp for interactivity with :
 
@@ -384,9 +387,9 @@ _**03/04/2017 - traveling from/to & working in cologne**_
 
 14.30 continue to work in editing suite at ifs FOTO
 
-22.00 Drive home 
+22.00 Drive home
 
-Very tiresome day! 
+Very tiresome day!
 
 04/04/2017
 
@@ -396,7 +399,7 @@ afterwards defining the upcoming performance together with Mathilde.
 
 EPAS group Skype talk
 
-05/04/2017 
+05/04/2017
 
 Skype with Romane
 
@@ -408,15 +411,15 @@ Making the narrative timeline of session \[x\] from sound
 
 whole week I have been working and writing on research ideas and proposal -
 
-today focus on research - this focus will continue with an exponantional  curve upcoming week! 
+today focus on research - this focus will continue with an exponantional curve upcoming week!
 
 Talk with Dirk Moelants@in de Ruimte about the problems with Immersion?
 
 07/04/17 - 09/04/2017
 
-Building home studio \[insert pic\] + prepping performance of session-x \[4\] @Campo 
+Building home studio \[insert pic\] + prepping performance of session-x \[4\] @Campo
 
-09/04/2017 • Performance of Session \[x\]  ( = \[ performance 4\] ) @Campo, Ghent (BE)
+09/04/2017 • Performance of Session \[x\] ( = \[ performance 4\] ) @Campo, Ghent (BE)
 
 **• Week15 10/04/2017**
 
@@ -446,12 +449,11 @@ meeting the game sound-designer of CGL (Cécile Le Prado) in the afternoon aroun
 
 **continuing Sound-design & -editing Julienne in Ghent @Herculeslab all week**
 
-  
 **Week17 24/04/2017**
 
 **In Ghent for premiere of some new pieces**
 
-25/04/2017 -  Performance of my new piece "In Betwixt" concert by New What Now @Miry zaal.
+25/04/2017 - Performance of my new piece "In Betwixt" concert by New What Now @Miry zaal.
 
 26/04/2017 Daan opera
 
@@ -461,7 +463,7 @@ meeting the game sound-designer of CGL (Cécile Le Prado) in the afternoon aroun
 
 **Week18 01/05/2017**
 
-Working  in Cologne on mixing Julienne & testing out the sound for performance Session \[x\] (feedback
+Working in Cologne on mixing Julienne & testing out the sound for performance Session \[x\] (feedback
 
 moments with andre & editing suit needed for this!
 
@@ -471,7 +473,7 @@ Amsterdam in July
 
 **Week19 - 08/05/2017**
 
-Working  in Cologne on mixing Julienne & testing out the sound for performance Session \[x\] (feedback
+Working in Cologne on mixing Julienne & testing out the sound for performance Session \[x\] (feedback
 
 moments with andre & editing suit needed for this!
 
@@ -525,7 +527,7 @@ moments with andre & editing suit needed for this!
 
 11/06/2017
 
-**Week24 - 12/06/2017 **
+**Week24 - 12/06/2017**
 
 12/06/2017
 
@@ -561,7 +563,7 @@ moments with andre & editing suit needed for this!
 
 26/06/2017 - jury in Ghent for \[animation\] films @KASK \[Ghent
 
-27/06/2017 - request materials herculeslab - Screening Julienne @Sfinx cinema 
+27/06/2017 - request materials herculeslab - Screening Julienne @Sfinx cinema
 
 28/06/2017 - Meeting Pieter en Yves molecule, working on Flamingo
 
@@ -571,11 +573,11 @@ moments with andre & editing suit needed for this!
 
 **Week27 03/07/2017**
 
-03/07/2017 - Cutting records horn fragment for research Jeroen Billiet 
+03/07/2017 - Cutting records horn fragment for research Jeroen Billiet
 
 04/07/2017 - Finishing Max Msp Patch From Scratch 2.0 + Flamingo sound editing pt1 -
 
-05/07/2017 - Flamingo editing pt2 - recording Trombone voice @home studio 
+05/07/2017 - Flamingo editing pt2 - recording Trombone voice @home studio
 
 06/07/2017 - Flamingo editing pt3
 
@@ -593,7 +595,7 @@ horn-fragments research Jeroen Billet Cutting them for later analysis.
 
 **15/07/2017 - 18/07/2017 Final IFS VISIT pt2!**
 
-15/07/2017 -working @IFS 
+15/07/2017 -working @IFS
 
 07:40 - 10:15 - Train Ghent - Cologne
 
@@ -620,16 +622,16 @@ Side-note: interesting work from Aphex Twin --- insert link.
 
 **Week29 17/07/2017 - FINISHING MIX AND BUZYNESSS!!!**
 
-17/07/2017 - Mixing in kino with André 
+17/07/2017 - Mixing in kino with André
 
-Morning we spend together discovering the s6  console in depth.
+Morning we spend together discovering the s6 console in depth.
 
 Then the biggest horror imaginative arrived my HDD broke down!  
 After one hour of problem fixing we were good to go!
 
 Mixed w/ André till 8.39 and went on for myself till 12\.
 
-18/07/2017 - Mixing in Kino wit Jascha and Romane - final day! 
+18/07/2017 - Mixing in Kino wit Jascha and Romane - final day!
 
 Train to Ghent 19:43 - 22:20
 
@@ -643,7 +645,6 @@ Train to Ghent 19:43 - 22:20
 
 22/07/2017 - From Scratch \[2.0\] premiere @ Wonderfeel festival Amersfoort in the Netherlands
 
-  
 **week 30 - 24/07/2017**
 
 24/07/2017 - Cleaning up Flamingo show
@@ -652,26 +653,25 @@ Prepping soundtrack Jane dog from Koen Blauwblomme
 
 27/07/2017 - deadline preview Jane Dog
 
-  
 **week 31 31/07/2017**
 
 01/08/2017 - Soft deadline Jane dog music + Returning borrowed equipment to Herculeslab
 
 03/08/2017 - Hard deadline Jane dog music
 
-**our holiday! **
+**our holiday!**
 
 Saturday, 5 August 2017 - 13 august - Berlin - Germany
 
 **week 33 - 14/08/2017**
 
-Moving in together in Ghent! 
+Moving in together in Ghent!
 
 16/08/2017 - Funeral of my aunt - Joke
 
-17/08/2017 Meeting Jonas Blindman Projectsubsidies 
+17/08/2017 Meeting Jonas Blindman Projectsubsidies
 
-**week 34 21/08/17 **
+**week 34 21/08/17**
 
 22/08/2017 Meeting Kunstenloket
 
