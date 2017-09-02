@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/patrick-housen/reviz-2-stereo-mixdown'
 title: 'ReViz [2] Stereo Mixdown by Patrick Housen'
-datePublished: '2017-09-02T11:08:27.394Z'
-dateModified: '2017-09-02T11:08:26.677Z'
+datePublished: '2017-09-02T11:10:34.951Z'
+dateModified: '2017-09-02T11:10:33.280Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-12-22-reviz-2-stereo-mixdown-by-patrick-housen.md
