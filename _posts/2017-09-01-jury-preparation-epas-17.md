@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Jury Preparation EPAS ‘17
-dateModified: '2017-09-01T11:45:38.690Z'
-datePublished: '2017-09-01T11:45:39.494Z'
-title: ''
+dateModified: '2017-09-02T10:56:57.209Z'
+datePublished: '2017-09-02T10:56:58.115Z'
+title: Introducing myself and my project
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-01-jury-preparation-epas-17.md
 starred: false
 datePublishedOriginal: '2017-09-01T11:45:39.494Z'
-sourcePath: _posts/2017-09-01-jury-preparation-epas-17.md
 _type: Blurb
 
 ---
@@ -26,8 +26,36 @@ To Prepare us for the upcoming Jury the 09th of September, we received an email 
 * -  Motivation of the choices you did ( Results thrown away)
 * -  Motivation of the presentation form ( distribution of sound)"
 
-In the following sections I will try to recap the points that were outlined above, the way I interpreted them...  
-_**-  Introducing my project**_
+In the following sections I will try to recap the points that were outlined above, the way I interpreted them...
+
+### _**Introducing myself and my project**_
+
+**Patrick Housen \[1990\]**
+
+****
+
+Patrick Housen \[1990\] is a Belgian composer and sound-artist, born in Genk and currently residing in Ghent. He graduated as a master of fine arts with a major in Composition & furthermore obtained a teacher's degree. He is currently the only Belgian who partakes in the European Postgraduate in Arts in Sound
+
+His musical roots can be found in contemporary classical music and progressive metal; thinking outside the box and the search for immersive sound\[s\] are the key elements in his oeuvre. Creating a dialog between human and computer and studying the influence of immersion in sound on human perception is currently peaking his intrest. 
+
+He was involved as an artist and as an educator in projects and workshops of schools and organisations in Belgium, The Netherlands and Germany like Music Futurista \[co-created with Matrix and Logos\], Art4Kids, YOUnited9000, A Peace of Art, etc.   
+He also creates musical installations, performance-art, compositions and field-recordings which coincide often with live-electronics as a composer. \[live-electronics for SPECTRA-ensemble, ...\]
+
+Artistic - [parickhousen.com][0] 
+
+EPAS -  [http://epas.patrickhousen.site/][1]
+
+**Technical description**
+
+Sound Recording, Designing, -Editing & -Mixing of the animation film Julienne by Romane Claus**.**
+
+**Further description**
+
+In this project immersion, or the experience of being all engulfed as to forget the world-reality around you, forms  the basis of praxis. The influence of immersion in an artistic work is being researched. The experience in correlation to sound of the artist as well as his audience form the starting point. The different forms in which immersion can appear and the tools to achieve this perceptual state are being researched within a multi-disciplinary frame with a focus on the correlation between picture and sound. Mixed-reality and other forms of new technological breakthroughs are used with the purpose of expanding the immersive experience of the listener. By analysing this immersive impact, the dialogue between human and computer is invoked. The influence and use of immersive sound and the value this has for the artist as well as for a broader social context is being questioned.
+
+**Mentors @IFS Cologne, Germany**
+
+Su Nicholls-Gärtner; André Bendocchi-Alves & Jascha Viehl ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11055ed8-35e4-4c7e-a1eb-d53fa21fb264.jpg)
 
 ### **References / Literature list**
 
@@ -54,4 +82,7 @@ _**-  Introducing my project**_
 * Murch, W. (1998). Dense clarity - Clear density. 
 * Raghuvanshi, N. (2010). Interac0ve Physically-based Sound Simula0on. University of North Carolina Chapel Hill 
 * Stockburger, A. (2003). The game environment from an audi0ve perspec0ve In: Copier, M. and Raessens, J. Level Up, Digital Games Research Conference (PDF on CD-ROM). Utrecht, The Netherlands: Faculty of Arts, Utrecht University. 
-* Wilhelmsson, U. and Wallén, J. A Combined Model for the Structuring of Computer Game Audio In: Grimshaw, M. (2011). Game Sound Technology and Player Interac0on: Concepts and Developments. University of Bolton, UK.
+* Wilhelmsson, U. and Wallén, J. A Combined Model for the Structuring of Computer Game Audio In: Grimshaw, M. (2011). Game Sound Technology and Player Interac0on: Concepts and Developments. University of Bolton, UK. 
+
+[0]: http://parickhousen.com/
+[1]: http://epas.patrickhousen.site/
