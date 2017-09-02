@@ -27,7 +27,7 @@ app_links:
     url: 'vimeo://app.vimeo.com/videos/196696643'
     type: googleplay
     name: Vimeo
-datePublished: '2017-09-02T11:47:40.673Z'
+datePublished: '2017-09-02T11:55:53.069Z'
 author:
   - name: Patrick Housen
     url: 'https://vimeo.com/user53032231'
@@ -42,7 +42,7 @@ publisher:
   domain: vimeo.com
 keywords: []
 title: 'More info on Under the Skin [x]'
-dateModified: '2017-09-02T11:47:39.881Z'
+dateModified: '2017-09-02T11:55:51.491Z'
 related: []
 inFeed: true
 starred: false
