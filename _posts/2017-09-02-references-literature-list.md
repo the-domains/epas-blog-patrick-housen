@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-02T11:47:39.881Z'
-datePublished: '2017-09-02T11:47:40.673Z'
+dateModified: '2017-09-02T11:55:51.491Z'
+datePublished: '2017-09-02T11:55:53.051Z'
 title: References / Literature list
 author: []
 publisher: {}
