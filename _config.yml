@@ -22,6 +22,9 @@ navigation:
   - name: Projects Overview
     id: afb8d034-41cd-4c00-969b-7587a4165c9e
     type: content
+  - name: Diary
+    id: 3186dec5-a51f-4c3f-85cc-3889c9e1ce82
+    type: content
 collections:
   - index:
       path: /
